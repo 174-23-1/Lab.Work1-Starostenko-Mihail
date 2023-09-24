@@ -1,0 +1,6 @@
+﻿  Lab Wok 1.cpp
+D:\lab work 1\Lab Work 1\Lab Wok 1.cpp(5,21): warning C4305: инициализация: усечение из "double" в "float"
+D:\lab work 1\Lab Work 1\Lab Wok 1.cpp(6,21): warning C4305: инициализация: усечение из "double" в "float"
+D:\lab work 1\Lab Work 1\Lab Wok 1.cpp(8,86): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\lab work 1\Lab Work 1\Lab Wok 1.cpp(8,24): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  Lab Work 1.vcxproj -> D:\lab work 1\x64\Debug\Lab Work 1.exe
